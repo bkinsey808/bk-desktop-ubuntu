@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Tetravex
+Comment=Complete the puzzle by matching numbered tiles
+Keywords=game;logic;board;
+Exec=gnome-tetravex
+Icon=gnome-tetravex
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-tetravex
+X-GNOME-Bugzilla-Component=BugBuddyBugs
+X-GNOME-Bugzilla-Version=3.8.1
+StartupNotify=true
+X-Ubuntu-Gettext-Domain=gnome-tetravex

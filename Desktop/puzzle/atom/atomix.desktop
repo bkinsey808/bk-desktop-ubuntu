@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Atomix
+Comment=Molecule puzzle game
+Exec=atomix
+Icon=atomix-icon.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=atomix
+X-GNOME-Bugzilla-Component=atomix
+X-GNOME-Bugzilla-Version=2.14.x
+X-Ubuntu-Gettext-Domain=atomix

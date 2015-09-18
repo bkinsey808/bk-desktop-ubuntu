@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=Balazar Brothers
+GenericName=Action / Adventure Game
+Type=Application
+Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
+Terminal=0
+Exec=balazar_brothers
+Comment=3D adventure and roleplaying game

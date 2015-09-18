@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Armagetron Advanced
+Exec=armagetronad
+Comment=3d light cycle game
+Icon=/usr/share/pixmaps/armagetronad/icons/large/armagetronad.png
+Terminal=false
+Path=/usr/games
+Categories=Game;ActionGame;
+StartupNotify=false
+MimeType=application/x-armagetronad;

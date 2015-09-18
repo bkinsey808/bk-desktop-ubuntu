@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Alice 3
+Exec=/bin/sh "/opt/Alice3/Alice 3"
+Icon=/opt/Alice3/.install4j/Alice 3.png
+Categories=Application;

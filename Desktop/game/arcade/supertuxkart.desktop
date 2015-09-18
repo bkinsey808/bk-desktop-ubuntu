@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SuperTuxKart
+Icon=/usr/share/pixmaps/supertuxkart_128.png
+GenericName=A kart racing game
+GenericName[de]=Ein Kart-Rennspiel
+GenericName[fr]=Un jeu de karting
+GenericName[gl]=Xogo de carreiras con karts
+GenericName[ro]=Un joc de curse cu carturi
+Exec=/usr/games/supertuxkart --no-console
+Terminal=false
+StartupNotify=false
+Type=Application
+TryExec=/usr/games/supertuxkart
+Categories=Game;ArcadeGame;

@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Klotski
+Comment=Slide blocks to solve the puzzle
+Keywords=game;strategy;logic;move;
+Exec=gnome-klotski
+Icon=gnome-klotski
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-klotski
+X-GNOME-Bugzilla-Component=BugBuddyBugs
+X-GNOME-Bugzilla-Version=3.8.2
+StartupNotify=true
+X-Ubuntu-Gettext-Domain=gnome-klotski

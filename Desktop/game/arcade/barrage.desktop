@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Barrage
+Comment=A rather destructive action game.
+Exec=barrage
+Icon=barrage.png
+Type=Application
+Categories=Game;

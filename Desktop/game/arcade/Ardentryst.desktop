@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ardentryst
+Categories=Game;RolePlaying
+Comment=Fantasy sidescroller game
+Exec=/usr/games/ardentryst
+Terminal=false
+Icon=/usr/share/pixmaps/ardentryst.png
+Type=Application

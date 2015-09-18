@@ -1,0 +1,38 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Klavaro
+Comment=Yet another touch typing tutor
+Comment[ar]=جولة تعليم طباعة أخرى جديدة
+Comment[bg]=Поредният самоучител по машинопис
+Comment[bn]=আরেকটি স্পর্শ টাইপিং শিক্ষক
+Comment[cs]=Jeden z dalších programů pro výuku psaní na stroji
+Comment[da]=Endnu et værktøj til øvelse af maskinskrivning
+Comment[de]=Ein weiteres Programm zum Erlernen des Tastschreibens
+Comment[el]=Ένα ακόμη εκπαιδευτικό λογισμικό δακτυλογραφίας
+Comment[eo]=Simple plia instruilo por tajpado
+Comment[es]=Otro programa de mecanografía
+Comment[eu]=Oraindik ere, beste ukitze-mekanografia tutore bat
+Comment[fr]=Un logiciel d'apprentissage de la dactylographie
+Comment[gl]=Simplemente un titor máis de mecanografía
+Comment[hu]=Ingyenes és szabad gépírásoktató program
+Comment[it]=Un altro programma per imparare ad usare la tastiera
+Comment[kk]=Тағы да бір теруді үйретуші
+Comment[ky]=Дагы бир баскычтоп машыктыргычы
+Comment[nb]=Enda et verktøy til å øve maskinskrivning
+Comment[nl]=voor het leren van blind typen
+Comment[pl]=Jeszcze jeden samouczek szybkiego pisania
+Comment[pt_BR]=Tutorial para digitação gratuito
+Comment[ru]=Ещё один клавиатурный тренажёр
+Comment[sv]=Ännu en tangentbords tränare
+Comment[uk]=Ще одна програма для навчання набору наосліп
+Comment[ur]=ایک اور لمسی ٹائپنگ اتالیق
+Comment[vi]=Đây là một chương trình học gõ bàn phím máy tính khác dành cho bạn
+Comment[wo]=xeltéefub njàngum daktilo
+Comment[zh_CN]=就是另一个盲打训练的家庭教师
+
+Exec=klavaro
+Icon=/usr/share/icons/hicolor/24x24/apps/klavaro.png
+Terminal=false
+Type=Application
+Categories=Education;GTK;
+StartupNotify=true

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Frozen-Bubble
+Comment=Pop out the bubbles!
+Exec=frozen-bubble 
+Icon=frozen-bubble
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Game;ArcadeGame;

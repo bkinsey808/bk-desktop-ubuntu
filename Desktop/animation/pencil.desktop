@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Pencil
+Comment=Draw cartoons
+Version=1.0
+Type=Application
+Categories=Graphics;VectorGraphics;
+MimeType=text/plain;
+TryExec=pencil
+Exec=pencil %F
+Terminal=false
+StartupNotify=true
+Icon=pencil
+X-Ubuntu-Gettext-Domain=pencil
+
