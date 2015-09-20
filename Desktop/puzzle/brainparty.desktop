@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Brain Party
+GenericName=Brain Party
+Exec=/usr/games/brainparty
+Icon=brainparty
+Type=Application
+Categories=Game;LogicGame;
+Comment=36 puzzle games for all the family 
+Comment[de]=36 Puzzlespiele für die ganze Familie
+Terminal=false

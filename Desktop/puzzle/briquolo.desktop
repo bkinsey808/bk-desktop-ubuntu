@@ -1,0 +1,20 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Briquolo
+Name[fr]=Briquolo
+
+Comment=An OpenGL breakout
+Comment[fr]=Un casse brique OpenGL
+
+Type=Application
+Categories=Game;ArcadeGame;
+
+Exec=briquolo
+TryExec=/usr/games/briquolo
+
+Icon=/usr/share/pixmaps/briquolo.svg
+Terminal=false
+
+GenericName=BreakOut
+GenericName[fr]=Casse Briques

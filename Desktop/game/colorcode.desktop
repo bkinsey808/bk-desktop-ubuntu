@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=ColorCode
+Comment=Advanced clone of the MasterMind code-breaking game
+GenericName=Clone of the MasterMind code-breaking game
+GenericName[fr]=Clone avancé du jeu MasterMind
+TryExec=/usr/games/colorcode
+Exec=/usr/games/colorcode
+Terminal=false
+Icon=/usr/share/pixmaps/colorcode32.xpm
+Type=Application
+Categories=Qt;Game;LogicGame;
+

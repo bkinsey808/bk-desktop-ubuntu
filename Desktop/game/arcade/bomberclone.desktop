@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Bomberclone
+Comment=Play a Bomberman like game
+Icon=bomberclone
+Exec=bomberclone
+Terminal=false
+Categories=Game;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Gtypist      
+Exec=gnome-terminal -e "bash -c 'gtypist;$SHELL'"
+Icon=utilities-terminal
+Terminal=false
+Type=Application

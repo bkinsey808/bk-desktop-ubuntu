@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Cultivation
+GenericName=Gardening game
+Comment=Game about the interactions within a gardening community
+Icon=cultivation
+Exec=cultivation
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=Gardening;Social dynamics;Community;

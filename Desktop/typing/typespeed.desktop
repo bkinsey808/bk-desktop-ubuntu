@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Typespeed       
+Exec=gnome-terminal -e "bash -c 'typespeed;$SHELL'"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
