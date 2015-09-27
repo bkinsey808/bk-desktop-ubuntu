@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Filler
+Comment=Filler in Java Game
+Comment[pl]=Filler w Javie
+Icon=filler.png
+Exec=filler
+Terminal=0
+Type=Application

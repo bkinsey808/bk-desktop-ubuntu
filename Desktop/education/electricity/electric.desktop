@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=electric
+GenericName=Electrical CAD
+Comment=Electrical CAD System
+Type=Application
+Exec=electric
+Icon=electric
+Categories=Education;Electronics;Engineering;
